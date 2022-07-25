@@ -1,0 +1,7 @@
+{
+  "endpoint": "minio地址 exp: xxx.xom:9000",
+  "username": "username",
+  "password": "userpassword",
+  "buckets": "tuchuang",
+  "preUrl": "nginx 代理前缀 https://xxx.xxx:88"
+}
