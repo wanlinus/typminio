@@ -2,10 +2,7 @@ module typminio
 
 go 1.18
 
-require (
-	github.com/gofrs/uuid v4.2.0+incompatible
-	github.com/minio/minio-go/v7 v7.0.31
-)
+require github.com/minio/minio-go/v7 v7.0.32
 
 require (
 	github.com/dustin/go-humanize v1.0.0 // indirect
